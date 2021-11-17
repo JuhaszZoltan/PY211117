@@ -24,3 +24,4 @@ for n in range(5):
     else:
         print('nope')
         print(f'hanem: {x} és {y}')
+print(talalatok)
